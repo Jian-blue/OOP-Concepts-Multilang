@@ -1,0 +1,3 @@
+Author: Jian-blue
+Learning Source: ForrestKnight YT[https://youtu.be/TiccevwEVe8]
+Description: Encapsulation w/ Classes & Objects
