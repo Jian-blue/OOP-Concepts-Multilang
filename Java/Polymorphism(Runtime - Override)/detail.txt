@@ -1,0 +1,9 @@
+Author: Jian-blue
+Learning Source: ForrestKnight YT[https://youtu.be/TiccevwEVe8]
+Description: Polymorphism (Runtime), good to use.  
+
+Short trick to remember:
+                            D    r    r         S    choo  l
+                            |    |    |         |    |     |
+                        Dynamic  | Override   Static |  Overload
+                              Runtime           Compile Time
