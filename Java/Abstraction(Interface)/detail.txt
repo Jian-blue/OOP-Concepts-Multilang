@@ -1,0 +1,11 @@
+Author: Jian-blue
+Learning Source: ForrestKnight YT[https://youtu.be/TiccevwEVe8]
+Description: Abstraction (Interface), by use case. We can use implements like this- (a class can implement multiple interfaces) 
+                                  public class Weapon implements ItemStuff, Itemproduct, Other {  
+                                                . . .  
+                                  }  
+                        Or we can use extends as like Inheritance-  
+                                  public class Weapon extends SomeClass implements Interface1, Interface2 {
+                                    // Must implement all abstract methods from interfaces
+                                    // Can also override or use methods from the superclass
+                                  }
